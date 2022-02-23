@@ -16,8 +16,7 @@
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/laurenjbabb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/laurenjbabb/" height="30" width="40" /></a>
-</p>
-[LinkedIn](https://www.linkedin.com/in/laurenjbabb/)  
+</p>  
 
 <br/>
 
