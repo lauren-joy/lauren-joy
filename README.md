@@ -4,9 +4,14 @@
 🌸 I am a software developer with an unconvential background 
 <br/>
 🌸 I am a boot camp gradauate eager to putting her skills to the test in the real world
+<br/>
 🌸 I am looking to hone my skills and continue learning everyday through projects both personal and professional
+<br/>
 🌸 2022 Goals: land a job in the tech industry and continue to grow my ever expanding toolbox 
+<br/>
 🌸 Fun Fact: I was a Japanese major with a Chinese minor in college
+
+<br/>
 
 ## Connect with me:
 [<img align ="left" alt= "lauren-joy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-ironcs@v3/icons/linkedin.svg" />][linkedin]
@@ -24,5 +29,7 @@
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
+
+<br/>
 
 [![Lauren's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauren-joy)](https://github.com/anuraghazra/github-readme-stats)
