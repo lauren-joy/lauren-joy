@@ -26,4 +26,6 @@
 
 <br/>
 
-[![Lauren's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauren-joy)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauren-joy&show_icons=true&locale=en&layout=compact" alt="lauren-joy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lauren-joy&show_icons=true&locale=en" alt="lauren-joy" /></p>
