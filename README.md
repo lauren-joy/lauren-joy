@@ -14,7 +14,7 @@
 <br/>
 
 ## Connect with me:
-[<img align ="left" alt= "lauren-joy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-ironcs@v3/icons/linkedin.svg" />][linkedin]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/laurenjbabb//)  
 
 <br/>
 
