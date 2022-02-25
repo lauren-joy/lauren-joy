@@ -3,7 +3,7 @@
 ## I am a multilingual developer, dog mom, and learning enthusiast.
 🌸 I am a software developer with an unconventional background 
 <br/>
-🌸 I am a boot camp gradauate eager to putting her skills to the test in the real world
+🌸 I am a boot camp gradauate who graduated in the top 10% of her class and is eager to put her skills to the test in the real world
 <br/>
 🌸 I am looking to hone my skills and continue learning everyday through projects both personal and professional
 <br/>
