@@ -1,7 +1,7 @@
 ## Hi there I'm Lauren, thanks for stopping by my Github page!
 
 ## I am a multilingual developer, dog mom, and learning enthusiast.
-🌸 I am a software developer with an unconvential background 
+🌸 I am a software developer with an unconventional background 
 <br/>
 🌸 I am a boot camp gradauate eager to putting her skills to the test in the real world
 <br/>
